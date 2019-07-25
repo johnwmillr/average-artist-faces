@@ -1,0 +1,18 @@
+# Data
+data
+*.json
+*.txt
+*.csv
+*.model
+*.pickle
+
+# Media
+figures
+*.png
+*.jpg
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
